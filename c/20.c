@@ -1,19 +1,17 @@
 #include <stdio.h>
+#include <string.h>
 #include <gmp.h>
 
 size_t mpz_digitsum(mpz_t op)
 {
-	size_t i, len, sum = 0;
-	FILE *null = fopen("/dev/null", "w");
+	size_t i, sum = 0;
+	char buf[mpz_sizeinbase(op, 10) + 2];
 
-	len = mpz_out_str(null, 10, op);
-	char buf[len + 1];
-	gmp_sprintf(buf, "%Zd", op);
+	mpz_get_str(buf, 10, op);
 
-	for (i = 0; i < len; ++i)
+	for (i = 0; i < strlen(buf); ++i)
 		sum += buf[i] - '0';
 
-	fclose(null);
 	return sum;
 }
 
