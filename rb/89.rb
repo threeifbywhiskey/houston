@@ -20,6 +20,6 @@ def to_roman n
   roman
 end
 
-romans = IO.read('89').split("\n")
+romans = IO.read('../input/89').split("\n")
 romans.map! { |r| r.size - to_roman(from_roman(r)).size }
 p romans.reduce(:+)
