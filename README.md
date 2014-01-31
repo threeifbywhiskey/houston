@@ -3,8 +3,7 @@ Houston
 
 Houston (as in Oilers) is my personal collection of Project Euler (pronounced "oiler") solutions.
 
-Solution Coverage
------------------
+### Solution Coverage
 
 \#|C|Clojure|Haskell|Python|Ruby|Shell|Vim
 :-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
@@ -21,9 +20,9 @@ Solution Coverage
 11|||||✓||
 13|✓|||✓|✓|✓|
 14|||||✓||
-16|✓|✓|||✓|✓|
+16|✓|✓|✓|✓|✓|✓|✓
 19|||||✓||
-20|✓|✓||✓|✓|✓|
+20|✓|✓|✓|✓|✓|✓|✓
 21|✓||||✓||
 22|✓||||✓|✓|✓
 24|||||✓||
@@ -37,4 +36,5 @@ Solution Coverage
 52||||✓|✓||
 53|✓|||✓|✓||
 55|✓|||✓|✓||
-56|✓|||✓|✓|✓|
+56|✓||✓|✓|✓|✓|
+99|✓|||✓|✓||
