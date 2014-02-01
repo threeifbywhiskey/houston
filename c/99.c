@@ -5,7 +5,7 @@ int main(void)
 {
 	int i, a, b, line;
 	double max = 0, prod;
-	FILE *input = fopen("houston/input/99", "r");
+	FILE *input = fopen("../input/99", "r");
 
 	for (i = 0; i < 1000; ++i) {
 		fscanf(input, "%d", &a);
