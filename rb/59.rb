@@ -1,4 +1,4 @@
-cipher = eval '[' + IO.read('59') + ']'
+cipher = eval '[' + IO.read('../input/59') + ']'
 alpha  = [*97..122]
 keys   = alpha.product alpha, alpha
 
