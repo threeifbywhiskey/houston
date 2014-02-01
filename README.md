@@ -10,7 +10,7 @@ Houston (as in Oilers) is my personal collection of Project Euler (pronounced "o
 1|✓|✓|✓|✓|✓|✓|✓
 2|✓||✓|✓|✓||✓
 3|✓|||✓|✓||
-4|✓|||✓|✓||
+4|✓|✓|✓|✓|✓|✓|
 5|✓|||✓|✓||
 6|✓|||✓|✓||
 7||||✓|✓||
@@ -37,6 +37,7 @@ Houston (as in Oilers) is my personal collection of Project Euler (pronounced "o
 53|✓|||✓|✓||
 55|✓|||✓|✓||
 56|✓|✓|✓|✓|✓|✓|
-59|||||✓||
+59|✓||||✓||
 89|✓||||✓||
 99|✓|||✓|✓||
+112|✓|||✓|✓||
