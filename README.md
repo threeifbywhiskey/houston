@@ -44,3 +44,4 @@ Houston (as in Oilers) is my personal collection of Project Euler (pronounced "o
 89|[✓](c/89.c)||||[✓](rb/89.rb)||
 99|[✓](c/99.c)|||[✓](py/99.py)|[✓](rb/99.rb)||
 112|[✓](c/112.c)|||[✓](py/112.py)|[✓](rb/112.rb)||
+145|[✓](c/145.c)||||||
