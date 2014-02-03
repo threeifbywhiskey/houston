@@ -4,7 +4,7 @@ end
 
 sum = 0
 
-(2..10000).each do |i| # 220
+(2..10000).each do |i|
   ds = divsum i
   sum += i if i == divsum(ds) && i != ds
 end
