@@ -1,6 +1,6 @@
 from re import split
 
-with open('houston/input/11') as f:
+with open('../input/11') as f:
     nums = map(int, split('\s', f.read())[:-1])
 
     max = 0
