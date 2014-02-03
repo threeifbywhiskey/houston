@@ -9,13 +9,13 @@ def value hand
   return [5] + ranks if flush
   return [4] + ranks if straight
 
-  counts = ranks.group_by { |r| ranks.count r }
+  group = ranks.group_by { |r| ranks.count r }
 
-  quads = counts[4]
+  quads = group[4]
   return [7] + [quads[0]] + (ranks - quads) if quads
 
-  trips = counts[3]
-  pairs = counts[2]
+  trips = group[3]
+  pairs = group[2]
   return [6] + [trips[0]] + [pairs[0]] if trips and pairs
   return [3] + [trips[0]] + (ranks - trips) if trips
   return [pairs.size / 2] + pairs.uniq + (ranks - pairs) if pairs
@@ -23,7 +23,7 @@ def value hand
   [0] + ranks
 end
 
-hands = IO.read('54').split("\n").map(&:split)
+hands = IO.read('../input/54').split("\n").map(&:split)
 wins  = 0
 
 hands.each do |hand|
