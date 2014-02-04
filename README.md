@@ -31,7 +31,7 @@ Houston (as in Oilers) is my personal collection of Project Euler (pronounced "o
 24||||[✓](py/24.py)|[✓](rb/24.rb)||
 25|[✓](c/25.c)|||[✓](py/25.py)|[✓](rb/25.rb)||
 28|[✓](c/28.c)|||[✓](py/28.py)|[✓](rb/28.rb)||
-29|||||[✓](rb/29.rb)||
+29|[✓](c/29.c)||||[✓](rb/29.rb)||
 30|[✓](c/30.c)|||[✓](py/30.py)|[✓](rb/30.rb)||
 34|[✓](c/34.c)|||[✓](py/34.py)|[✓](rb/34.rb)||
 36|[✓](c/36.c)|||[✓](py/36.py)|[✓](rb/36.rb)||
