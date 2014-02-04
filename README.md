@@ -3,7 +3,7 @@ Houston
 
 Houston (as in Oilers) is my personal collection of Project Euler (pronounced "oiler") solutions.
 
-![](http://projecteuler.net/profile/threeifbywhiskey.png?t=1391548808)
+![](http://projecteuler.net/profile/threeifbywhiskey.png?t=1391550178)
 
 ### Solution Coverage
 
@@ -46,6 +46,7 @@ Houston (as in Oilers) is my personal collection of Project Euler (pronounced "o
 40|[✓](c/40.c)|||[✓](py/40.py)|[✓](rb/40.rb)|[✓](sh/40.sh)|
 41|[✓](c/41.c)||||||
 42|[✓](c/42.c)|||[✓](py/42.py)|[✓](rb/42.rb)||
+44|||||[✓](rb/44.rb)||
 48|[✓](c/48.c)|||[✓](py/48.py)|[✓](rb/48.rb)|[✓](sh/48.sh)|
 49|[✓](c/49.c)|||[✓](py/49.py)|[✓](rb/49.rb)||
 52|[✓](c/52.c)|[✓](clj/52.clj)|[✓](hs/52.hs)|[✓](py/52.py)|[✓](rb/52.rb)||
