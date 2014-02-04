@@ -1,4 +1,4 @@
-nums = IO.read('18').split("\n").map { |l| l.split.map(&:to_i) }
+nums = IO.read('../input/18').split("\n").map { |l| l.split.map(&:to_i) }
 
 p 16834.times.map { |i|
   n = 0
