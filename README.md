@@ -23,7 +23,7 @@ Houston (as in Oilers) is my personal collection of Project Euler (pronounced "o
 14|[✓](c/14.c)|||[✓](py/14.py)|[✓](rb/14.rb)||
 16|[✓](c/16.c)|[✓](clj/16.clj)|[✓](hs/16.hs)|[✓](py/16.py)|[✓](rb/16.rb)|[✓](sh/16.sh)|[✓](vim/16.vim)
 17|[✓](c/17.c)|||[✓](py/17.py)|[✓](rb/17.rb)||
-18|[✓](c/18.c)||||[✓](rb/18.rb)||
+18|[✓](c/18.c)|||[✓](py/18.py)|[✓](rb/18.rb)||
 19||||[✓](py/19.py)|[✓](rb/19.rb)||
 20|[✓](c/20.c)|[✓](clj/20.clj)|[✓](hs/20.hs)|[✓](py/20.py)|[✓](rb/20.rb)|[✓](sh/20.sh)|[✓](vim/20.vim)
 21|[✓](c/21.c)|||[✓](py/21.py)|[✓](rb/21.rb)||

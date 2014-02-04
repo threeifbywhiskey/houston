@@ -12,7 +12,7 @@ int main(void)
 {
 	int i, j, n, sum, max = 0;
 	int nums[15][15] = {};
-	FILE *input = fopen("houston/input/18", "r");
+	FILE *input = fopen("../input/18", "r");
 
 	for (i = 0; i < 15; ++i)
 		for (j = 0; j < i + 1; ++j)

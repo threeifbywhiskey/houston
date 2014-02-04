@@ -8,6 +8,6 @@ def value(word):
 def triangle(n):
     return sqrt(n * 8 + 1) % 1 == 0
 
-with open('houston/input/42') as f:
+with open('../input/42') as f:
     words = sorted(findall('\w+', f.read()))
     print len(filter(triangle, map(value, words)))
