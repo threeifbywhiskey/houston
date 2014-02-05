@@ -1,5 +1,5 @@
 (def names
-  (sort (read-string (str "(" (slurp "houston/input/22") ")"))))
+  (sort (read-string (str "(" (slurp "../input/22") ")"))))
 
 (defn value [name]
   (apply + (map #(- (int %) 64) name)))
