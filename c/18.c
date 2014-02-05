@@ -1,13 +1,5 @@
 #include <stdio.h>
 
-int bit(int n, int b)
-{
-	int i, e = 1;
-	for (i = 0; i < b; ++i)
-		e *= 2;
-	return n & e ? 1 : 0;
-}
-
 int main(void)
 {
 	int i, j, n, sum, max = 0;
@@ -22,7 +14,7 @@ int main(void)
 		n = 0;
 		sum = nums[0][0];
 		for (j = 0; j < 14; ++j)
-			sum += nums[j + 1][n += bit(i, j)];
+			sum += nums[j + 1][n += i >> j & 1];
 		if (sum > max)
 			max = sum;
 	}
