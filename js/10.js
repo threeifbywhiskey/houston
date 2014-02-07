@@ -13,7 +13,7 @@ function prime(n) {
 }
 
 sum = 2;
-for (i = 3; i < 2000000; ++i)
+for (i = 3; i < 2000000; i += 2)
     sum += prime(i) ? i : 0;
 
 console.log(sum);
