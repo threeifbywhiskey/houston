@@ -5,6 +5,7 @@ lang_map = Hash[*%w[
                 c   C
                 clj Clojure
                 hs  Haskell
+                js  JavaScript
                 py  Python
                 rb  Ruby
                 sh  Shell
