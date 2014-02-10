@@ -1,3 +1,6 @@
+" Project Euler #8
+" vim -S 8.vim ../input/8
+
 normal 20J
 s/ //g
 

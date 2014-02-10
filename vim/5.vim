@@ -1,3 +1,6 @@
+" Project Euler #5
+" vim -S 5.vim"
+
 let n = 5040
 
 while 1
