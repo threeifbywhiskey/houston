@@ -1,5 +1,5 @@
 var fs = require('fs'),
-    input = fs.readFileSync('input/99'),
+    input = fs.readFileSync('../input/99'),
     nums = input.toString().split('\n');
 
 var max = 0, line;
