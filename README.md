@@ -3,7 +3,7 @@ Houston
 
 Houston (as in Oilers) is my personal collection of Project Euler (pronounced "oiler") solutions.
 
-![](http://projecteuler.net/profile/threeifbywhiskey.png?t=1392154847)
+![](http://projecteuler.net/profile/threeifbywhiskey.png?t=1392159202)
 
 ### Solution Coverage
 
@@ -32,7 +32,7 @@ Houston (as in Oilers) is my personal collection of Project Euler (pronounced "o
 21|[✓](c/21.c)|[✓](clj/21.clj)|[✓](hs/21.hs)|[✓](js/21.js)|[✓](py/21.py)|[✓](rb/21.rb)||
 22|[✓](c/22.c)|[✓](clj/22.clj)|[✓](hs/22.hs)|[✓](js/22.js)|[✓](py/22.py)|[✓](rb/22.rb)|[✓](sh/22.sh)|[✓](vim/22.vim)
 24|||||[✓](py/24.py)|[✓](rb/24.rb)||
-25|[✓](c/25.c)||||[✓](py/25.py)|[✓](rb/25.rb)||
+25|[✓](c/25.c)||[✓](hs/25.hs)||[✓](py/25.py)|[✓](rb/25.rb)||
 27|[✓](c/27.c)|||[✓](js/27.js)|[✓](py/27.py)|[✓](rb/27.rb)||
 28|[✓](c/28.c)|||[✓](js/28.js)|[✓](py/28.py)|[✓](rb/28.rb)||
 29|[✓](c/29.c)|[✓](clj/29.clj)|[✓](hs/29.hs)|||[✓](rb/29.rb)|[✓](sh/29.sh)|
