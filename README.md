@@ -3,7 +3,7 @@ Houston
 
 Houston (as in Oilers) is my personal collection of Project Euler (pronounced "oiler") solutions.
 
-![](http://projecteuler.net/profile/threeifbywhiskey.png?t=1392136296)
+![](http://projecteuler.net/profile/threeifbywhiskey.png?t=1392137959)
 
 ### Solution Coverage
 
@@ -15,7 +15,7 @@ Houston (as in Oilers) is my personal collection of Project Euler (pronounced "o
 4|[✓](c/4.c)|[✓](clj/4.clj)|[✓](hs/4.hs)|[✓](js/4.js)|[✓](py/4.py)|[✓](rb/4.rb)|[✓](sh/4.sh)|[✓](vim/4.vim)
 5|[✓](c/5.c)|[✓](clj/5.clj)|[✓](hs/5.hs)|[✓](js/5.js)|[✓](py/5.py)|[✓](rb/5.rb)|[✓](sh/5.sh)|[✓](vim/5.vim)
 6|[✓](c/6.c)|[✓](clj/6.clj)|[✓](hs/6.hs)|[✓](js/6.js)|[✓](py/6.py)|[✓](rb/6.rb)|[✓](sh/6.sh)|[✓](vim/6.vim)
-7|[✓](c/7.c)|[✓](clj/7.clj)|[✓](hs/7.hs)|[✓](js/7.js)|[✓](py/7.py)|[✓](rb/7.rb)||
+7|[✓](c/7.c)|[✓](clj/7.clj)|[✓](hs/7.hs)|[✓](js/7.js)|[✓](py/7.py)|[✓](rb/7.rb)||[✓](vim/7.vim)
 8|[✓](c/8.c)|[✓](clj/8.clj)|[✓](hs/8.hs)|[✓](js/8.js)|[✓](py/8.py)|[✓](rb/8.rb)|[✓](sh/8.sh)|[✓](vim/8.vim)
 9|[✓](c/9.c)|[✓](clj/9.clj)|[✓](hs/9.hs)|[✓](js/9.js)|[✓](py/9.py)|[✓](rb/9.rb)|[✓](sh/9.sh)|[✓](vim/9.vim)
 10|[✓](c/10.c)|[✓](clj/10.clj)|[✓](hs/10.hs)|[✓](js/10.js)|[✓](py/10.py)|[✓](rb/10.rb)||
