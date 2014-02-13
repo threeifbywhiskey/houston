@@ -30,4 +30,8 @@ done.sort.each do |d|
   }.join('|') + "\n"
 end
 
+totals = coverage.map { |c| c[1].size }
+totals.unshift "**#{totals.reduce :+}**"
+table << totals.join('|') + "\n"
+
 puts table
