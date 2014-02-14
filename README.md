@@ -3,7 +3,7 @@ Houston
 
 Houston (as in Oilers) is my personal collection of Project Euler (pronounced "oiler") solutions.
 
-![](http://projecteuler.net/profile/threeifbywhiskey.png?t=1392376873)
+![](http://projecteuler.net/profile/threeifbywhiskey.png?t=1392391606)
 
 ### Solution Coverage
 
@@ -37,7 +37,7 @@ Houston (as in Oilers) is my personal collection of Project Euler (pronounced "o
 28|[✓](c/28.c)|||[✓](js/28.js)|[✓](py/28.py)|[✓](rb/28.rb)||[✓](vim/28.vim)
 29|[✓](c/29.c)|[✓](clj/29.clj)|[✓](hs/29.hs)|||[✓](rb/29.rb)|[✓](sh/29.sh)|
 30|[✓](c/30.c)|||[✓](js/30.js)|[✓](py/30.py)|[✓](rb/30.rb)||
-32|[✓](c/32.c)||[✓](hs/32.hs)|||[✓](rb/32.rb)||
+32|[✓](c/32.c)||[✓](hs/32.hs)|[✓](js/32.js)||[✓](rb/32.rb)||
 33||||||[✓](rb/33.rb)||
 34|[✓](c/34.c)|[✓](clj/34.clj)|[✓](hs/34.hs)|[✓](js/34.js)|[✓](py/34.py)|[✓](rb/34.rb)||
 35|[✓](c/35.c)|||||[✓](rb/35.rb)||
@@ -64,4 +64,4 @@ Houston (as in Oilers) is my personal collection of Project Euler (pronounced "o
 99|[✓](c/99.c)|||[✓](js/99.js)|[✓](py/99.py)|[✓](rb/99.rb)|[✓](sh/99.sh)|
 112|[✓](c/112.c)||||[✓](py/112.py)|[✓](rb/112.rb)||
 145|[✓](c/145.c)|||||[✓](rb/145.rb)||
-**271**|50|28|31|34|42|55|18|13
+**272**|50|28|31|35|42|55|18|13
