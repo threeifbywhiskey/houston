@@ -9,7 +9,8 @@ lang_map = Hash[*%w[
                 py  Python
                 rb  Ruby
                 sh  Shell
-                vim Vim]]
+                vim Vim
+                asm Whitespace]]
 
 lang_map.each do |ext, lang|
   Dir["#{ext}/*"].entries.each do |e|
