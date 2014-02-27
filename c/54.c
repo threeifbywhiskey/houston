@@ -56,14 +56,16 @@ char evaluate(char hand[5], char val[6])
 int main(void)
 {
 	int i, j, wins = 0;
+	char rank, suit;
 	char card[3], hands[2][5], v0[6], v1[6];
 	FILE *input = fopen("../input/54", "r");
 
 	for (i = 0; i < 1000; ++i) {
 		for (j = 0; j < 10; ++j) {
 			fscanf(input, "%s", card);
-			hands[j / 5][j % 5] = ((strchr(ranks, card[0]) - ranks) << 2)
-								+  (strchr(suits, card[1]) - suits);
+			rank = strchr(ranks, card[0]) - ranks;
+			suit = strchr(suits, card[1]) - suits;
+			hands[j / 5][j % 5] = (rank << 2) | suit;
 		}
 
 		evaluate(hands[0], v0);
