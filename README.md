@@ -3,12 +3,12 @@ Houston
 
 Houston (as in Oilers) is my personal collection of Project Euler (pronounced "oiler") solutions. The Whitespace entries are written in a pseudo-language intended to be assembled by [Blacktime](https://github.com/threeifbywhiskey/blacktime).
 
-![](http://projecteuler.net/profile/threeifbywhiskey.png?t=1393545307)
+![](http://projecteuler.net/profile/threeifbywhiskey.png?t=1393545361)
 
 ### Solution Coverage
 
-\#|C|Clojure|Haskell|JavaScript|Python|Ruby|Shell|Vim|Whitespace
-:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+\#|C|Clojure|Haskell|JavaScript|Python|Ruby|Shell|Vim
+:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
 1|[✓](c/1.c)|[✓](clj/1.clj)|[✓](hs/1.hs)|[✓](js/1.js)|[✓](py/1.py)|[✓](rb/1.rb)|[✓](sh/1.sh)|[✓](vim/1.vim)
 2|[✓](c/2.c)|[✓](clj/2.clj)|[✓](hs/2.hs)|[✓](js/2.js)|[✓](py/2.py)|[✓](rb/2.rb)|[✓](sh/2.sh)|[✓](vim/2.vim)
 3|[✓](c/3.c)|[✓](clj/3.clj)|[✓](hs/3.hs)|[✓](js/3.js)|[✓](py/3.py)|[✓](rb/3.rb)|[✓](sh/3.sh)|
