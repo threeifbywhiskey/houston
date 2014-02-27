@@ -1,7 +1,7 @@
 Houston
 =======
 
-Houston (as in Oilers) is my personal collection of Project Euler (pronounced "oiler") solutions.
+Houston (as in Oilers) is my personal collection of Project Euler (pronounced "oiler") solutions. The Whitespace entries are written in a pseudo-language intended to be assembled by [Blacktime](https://github.com/threeifbywhiskey/blacktime).
 
 ![](http://projecteuler.net/profile/threeifbywhiskey.png?t=1393542939)
 
