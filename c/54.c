@@ -36,7 +36,7 @@ char evaluate(char hand[5], char val[6])
 	}
 
 	if (str | fls)
-		return *val = str & fls ? 9 : 5 + fls;
+		return *val = 5 + fls;
 
 	for (i = 0; i < 5; ++i)
 		++group[RANK(hand[i])];
