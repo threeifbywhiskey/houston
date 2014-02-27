@@ -21,16 +21,16 @@ function circular(n) {
     while (++digs, dup = Math.floor(dup / 10))
         mag *= 10;
 
-	for (var i = 0; i < digs - 1; ++i) {
-		n = (n % 10) * mag + Math.floor(n / 10);
-		if (!prime(n))
-			return false;
-	}
+    for (var i = 0; i < digs - 1; ++i) {
+        n = (n % 10) * mag + Math.floor(n / 10);
+        if (!prime(n))
+            return false;
+    }
 
     return true;
 }
 
 var total = 0;
 for (var i = 2; i < 1e6; ++i)
-    total += circular(i);
+total += circular(i);
 console.log(total);
