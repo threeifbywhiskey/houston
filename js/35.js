@@ -32,5 +32,5 @@ function circular(n) {
 
 var total = 0;
 for (var i = 2; i < 1e6; ++i)
-total += circular(i);
+    total += circular(i);
 console.log(total);
