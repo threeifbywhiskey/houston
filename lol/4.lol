@@ -13,12 +13,12 @@ HOW IZ I palindromin YR num
             BOTH SAEM b AN e, O RLY?
                 YA RLY
                     BOTH SAEM c AN d, O RLY?
-                        YA RLY, FOUND YR 1
-                        NO WAI, FOUND YR 0
+                        YA RLY, FOUND YR WIN
+                        NO WAI, FOUND YR FAIL
                     OIC
-                NO WAI, FOUND YR 0
+                NO WAI, FOUND YR FAIL
             OIC
-        NO WAI, FOUND YR 0
+        NO WAI, FOUND YR FAIL
     OIC
 IF U SAY SO
 
