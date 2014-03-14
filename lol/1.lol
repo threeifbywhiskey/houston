@@ -1,0 +1,12 @@
+HAI 1.3
+
+I HAS A sum ITZ 0
+
+IM IN YR loop UPPIN YR i TIL BOTH SAEM i AN 1000
+    NOT PRODUKT OF MOD OF i AN 3 AN MOD OF i AN 5, O RLY?
+        YA RLY, sum R SUM OF sum AN i
+    OIC
+IM OUTTA YR loop
+
+VISIBLE sum
+KTHXBYE
